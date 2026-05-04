@@ -120,7 +120,7 @@ Before you begin, ensure you have the following installed:
 morocan_plate_OCR/
 ├── moroccan_plates_OCR.ipynb   # Main Jupyter Notebook containing all code and analysis
 ├── README.md                   # This README file
-
+```
 ## ⚙️ Configuration
 
 All configuration parameters, such as model hyperparameters, image processing thresholds, and file paths for datasets, are defined directly within the `moroccan_plates_OCR.ipynb` notebook cells. You can modify these values directly in the notebook to experiment with different settings.
@@ -136,5 +136,5 @@ All configuration parameters, such as model hyperparameters, image processing th
 
 
 </div>
-```
+
 
