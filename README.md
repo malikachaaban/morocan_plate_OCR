@@ -3,14 +3,9 @@
 <div align="center">
 
 ![Logo](https://raw.githubusercontent.com/malikachaaban/morocan_plate_OCR/main/assets/logo.png) <!-- TODO: Add a project logo representing Moroccan plates or OCR -->
-
 [![GitHub stars](https://img.shields.io/github/stars/malikachaaban/morocan_plate_OCR?style=for-the-badge)](https://github.com/malikachaaban/morocan_plate_OCR/stargazers)
-
 [![GitHub forks](https://img.shields.io/github/forks/malikachaaban/morocan_plate_OCR?style=for-the-badge)](https://github.com/malikachaaban/morocan_plate_OCR/network)
-
 [![GitHub issues](https://img.shields.io/github/issues/malikachaaban/morocan_plate_OCR?style=for-the-badge)](https://github.com/malikachaaban/morocan_plate_OCR/issues)
-
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE) <!-- TODO: Add actual license file (e.g., MIT) -->
 
 **An end-to-end Optical Character Recognition (OCR) system designed specifically for the detection and recognition of Moroccan vehicle license plates.**
 
