@@ -23,19 +23,6 @@ This project presents a comprehensive solution for Optical Character Recognition
 -   **Interactive Analysis**: All steps are presented within a Jupyter Notebook, allowing for easy understanding, modification, and execution of the workflow.
 -   **Flexible Architecture**: Designed for potential integration into broader computer vision applications.
 
-## 🖥️ Screenshots
-
-<!-- TODO: Add actual screenshots showing: -->
-<!-- 1. Original image with detected license plate highlighted. -->
-<!-- 2. Detected license plate image with segmented characters. -->
-<!-- 3. Final OCR result (e.g., "أ 12345 67"). -->
-
-![Screenshot 1: Plate Detection](https://raw.githubusercontent.com/malikachaaban/morocan_plate_OCR/main/assets/screenshot_detection.png)
-
-![Screenshot 2: Character Segmentation](https://raw.githubusercontent.com/malikachaaban/morocan_plate_OCR/main/assets/screenshot_segmentation.png)
-
-![Screenshot 3: OCR Result](https://raw.githubusercontent.com/malikachaaban/morocan_plate_OCR/main/assets/screenshot_result.png)
-
 ## 🛠️ Tech Stack
 
 **Language & Environment:**
