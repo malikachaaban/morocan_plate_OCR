@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Logo](https://raw.githubusercontent.com/malikachaaban/morocan_plate_OCR/main/assets/logo.png) <!-- TODO: Add a project logo representing Moroccan plates or OCR -->
 [![GitHub stars](https://img.shields.io/github/stars/malikachaaban/morocan_plate_OCR?style=for-the-badge)](https://github.com/malikachaaban/morocan_plate_OCR/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/malikachaaban/morocan_plate_OCR?style=for-the-badge)](https://github.com/malikachaaban/morocan_plate_OCR/network)
 [![GitHub issues](https://img.shields.io/github/issues/malikachaaban/morocan_plate_OCR?style=for-the-badge)](https://github.com/malikachaaban/morocan_plate_OCR/issues)
